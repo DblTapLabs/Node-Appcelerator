@@ -1,0 +1,36 @@
+{
+    "name": "appcelerator",
+    "version": "1.0.0",
+    "description": "Appcelerator ACS API package for Node.js",
+    "keywords": [
+      "appcelerator",
+      "acs",
+      "javascript"
+    ],
+    "maintainers": [{
+      "name": "Ben Edmunds",
+      "email": "ben.edmunds@gmail.com",
+      "url": "http://benedmunds.com"
+    }],
+    "contributors": [{
+      "name":  "Ben Edmunds",
+      "email": "ben.edmunds@gmail.com",
+      "url": "http://benedmunds.com"
+    }],
+    "bugs": {
+      "email": "ben.edmunds@gmail.com",
+      "url": "http://github.com/benedmunds/Node-Appcelerator/issues"
+    },
+    "repositories": [{
+      "type": "git",
+      "url": "http://github.com/benedmunds/Node-Appcelerator.git"
+    }],
+    "dependencies": {
+      "request": ">=2.2.0"
+    },
+    "engines" : { "node" : ">=0.1.9" },
+    "directories": {
+        "lib": "./lib"
+    },
+    "main": "./lib/appcelerator"
+}
