@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/DblTapLabs/Node-Appcelerator.png)](http://travis-ci.org/DblTapLabs/Node-Appcelerator)
 #Appcelerator ACS API Node.js Module
 A Node.js module that is a simple port of the Appcelerator ACS Javascript SDK to Node  
 
